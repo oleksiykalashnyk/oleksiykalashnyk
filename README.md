@@ -1,8 +1,39 @@
-# Hello, I'm Oleksiy Kalashnyk :leo:
-## Front end Developer , from Ukraine.  
+<div align="center">
+  <img height="150" src="https://www.kalashnyk.pl/logo.svg"  />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksiykalashnyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiykalashnyk&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<a href="https://app.daily.dev/532"><img src="https://api.daily.dev/devcards/ad0b80048fe540a197afef77aae017d5.png?r=0nf" width="400" alt="Oleksiy Kalashnyk's Dev Card"/></a>
+<h2 align="center">Hi 👋! My name is Oleksiy Kalashnyk and I'm a frontend developer</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
+</div>
+
+###
