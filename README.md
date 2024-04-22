@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://www.kalashnyk.pl/logo.svg"  />
-</div>
-
-###
-
 <h2 align="center">Hi 👋! My name is Oleksiy Kalashnyk and I'm a frontend developer</h2>
 
 ###
